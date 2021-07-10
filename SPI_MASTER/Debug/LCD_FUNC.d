@@ -1,0 +1,1 @@
+LCD_FUNC.o: ../LCD_FUNC.c

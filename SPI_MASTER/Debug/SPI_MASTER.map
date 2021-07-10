@@ -1,0 +1,577 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+                              d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o (exit)
+d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              ./LCD_FUNC.o (__ltsf2)
+d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              ./LCD_FUNC.o (__fixunssfsi)
+d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_splitA)
+d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_zero)
+d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              ./LCD_FUNC.o (__gtsf2)
+d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              ./LCD_FUNC.o (__mulsf3)
+d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_inf)
+d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_nan)
+d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscA)
+d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscB)
+d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__fp_round)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000002 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+LOAD ./AVR_SPI.o
+LOAD ./LCD_FUNC.o
+LOAD ./UART.o
+LOAD ./main.o
+START GROUP
+LOAD d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a
+LOAD d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a
+LOAD d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a
+LOAD d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libatmega32.a
+END GROUP
+                0x0000000000020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x000000000000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x0000000000010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x13ce
+ *(.vectors)
+ .vectors       0x0000000000000000       0x54 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000054                . = ALIGN (0x2)
+                0x0000000000000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000054        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000054                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+                0x0000000000000054                . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000054                __ctors_start = .
+ *(.ctors)
+                0x0000000000000054                __ctors_end = .
+                0x0000000000000054                __dtors_start = .
+ *(.dtors)
+                0x0000000000000054                __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000054        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x0000000000000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000054        0xc d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000060        0x8 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000000000000068        0x4 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x0000000000000068                __vector_1
+                0x0000000000000068                __vector_12
+                0x0000000000000068                __bad_interrupt
+                0x0000000000000068                __vector_6
+                0x0000000000000068                __vector_3
+                0x0000000000000068                __vector_11
+                0x0000000000000068                __vector_13
+                0x0000000000000068                __vector_17
+                0x0000000000000068                __vector_19
+                0x0000000000000068                __vector_7
+                0x0000000000000068                __vector_5
+                0x0000000000000068                __vector_4
+                0x0000000000000068                __vector_9
+                0x0000000000000068                __vector_2
+                0x0000000000000068                __vector_15
+                0x0000000000000068                __vector_8
+                0x0000000000000068                __vector_14
+                0x0000000000000068                __vector_10
+                0x0000000000000068                __vector_16
+                0x0000000000000068                __vector_18
+                0x0000000000000068                __vector_20
+ .text          0x000000000000006c        0x0 ./AVR_SPI.o
+ .text          0x000000000000006c        0x0 ./LCD_FUNC.o
+ .text          0x000000000000006c        0x0 ./UART.o
+ .text          0x000000000000006c        0x0 ./main.o
+ .text          0x000000000000006c        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text          0x000000000000006c        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x000000000000006c        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x000000000000006c        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x000000000000006c        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x000000000000006c        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x000000000000006c        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x000000000000006c        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x000000000000006c        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x000000000000006c        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x000000000000006c        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x000000000000006c        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x000000000000006c        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x000000000000006c        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x000000000000006c                . = ALIGN (0x2)
+ *(.text.*)
+ .text.SPI_MasterInit
+                0x000000000000006c       0x34 ./AVR_SPI.o
+                0x000000000000006c                SPI_MasterInit
+ .text.SPI_SlaveInit
+                0x00000000000000a0       0x34 ./AVR_SPI.o
+                0x00000000000000a0                SPI_SlaveInit
+ .text.SPI_SendChar
+                0x00000000000000d4       0x30 ./AVR_SPI.o
+                0x00000000000000d4                SPI_SendChar
+ .text.SPI_GetChar
+                0x0000000000000104       0x24 ./AVR_SPI.o
+                0x0000000000000104                SPI_GetChar
+ .text.lcd_command
+                0x0000000000000128      0x5dc ./LCD_FUNC.o
+                0x0000000000000128                lcd_command
+ .text.lcd_data
+                0x0000000000000704      0x45e ./LCD_FUNC.o
+                0x0000000000000704                lcd_data
+ .text.lcd_init
+                0x0000000000000b62      0x18e ./LCD_FUNC.o
+                0x0000000000000b62                lcd_init
+ .text.lcd_print_string
+                0x0000000000000cf0      0x182 ./LCD_FUNC.o
+                0x0000000000000cf0                lcd_print_string
+ .text.lcd_print_char
+                0x0000000000000e72      0x14c ./LCD_FUNC.o
+                0x0000000000000e72                lcd_print_char
+ .text.uart_init
+                0x0000000000000fbe       0x36 ./UART.o
+                0x0000000000000fbe                uart_init
+ .text.uart_transmit
+                0x0000000000000ff4       0x36 ./UART.o
+                0x0000000000000ff4                uart_transmit
+ .text.uart_recieve
+                0x000000000000102a       0x24 ./UART.o
+                0x000000000000102a                uart_recieve
+ .text.main     0x000000000000104e      0x146 ./main.o
+                0x000000000000104e                main
+ .text.libgcc.mul
+                0x0000000000001194        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000001194        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000001194        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000001194        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000001194        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000001194        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000001194        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.avr-libc.fplib
+                0x0000000000001194        0xa d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x0000000000001194                __nesf2
+                0x0000000000001194                __eqsf2
+                0x0000000000001194                __cmpsf2
+                0x0000000000001194                __ltsf2
+                0x0000000000001194                __lesf2
+ .text.avr-libc.fplib
+                0x000000000000119e       0x5e d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x000000000000119e                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00000000000011fc       0x48 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x00000000000011fc                __fp_cmp
+ .text.avr-libc.fplib
+                0x0000000000001244       0x44 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x0000000000001244                __fp_split3
+                0x0000000000001254                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000000000001288        0xe d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x0000000000001288                __fp_zero
+                0x000000000000128a                __fp_szero
+ .text.avr-libc.fplib
+                0x0000000000001296        0xa d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x0000000000001296                __gesf2
+                0x0000000000001296                __gtsf2
+ .text.avr-libc.fplib
+                0x00000000000012a0        0x8 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00000000000012a0                __mulsf3
+ .text.avr-libc.fplib
+                0x00000000000012a8       0xd2 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00000000000012c6                __mulsf3x
+                0x00000000000012cc                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x000000000000137a        0xc d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x000000000000137a                __fp_inf
+ .text.avr-libc.fplib
+                0x0000000000001386        0x6 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x0000000000001386                __fp_nan
+ .text.avr-libc.fplib
+                0x000000000000138c        0xe d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x000000000000138c                __fp_pscA
+ .text.avr-libc.fplib
+                0x000000000000139a        0xe d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x000000000000139a                __fp_pscB
+ .text.avr-libc.fplib
+                0x00000000000013a8       0x22 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00000000000013a8                __fp_round
+                0x00000000000013ca                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000013ca        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+                0x00000000000013ca                _exit
+                0x00000000000013ca                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000013ca        0x4 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x00000000000013ce                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+                0x00000000000013ce                _etext = .
+
+.data           0x0000000000800060        0x0 load address 0x00000000000013ce
+                [!provide]                        PROVIDE (__data_start = .)
+ *(.data)
+ .data          0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .data          0x0000000000800060        0x0 ./AVR_SPI.o
+ .data          0x0000000000800060        0x0 ./LCD_FUNC.o
+ .data          0x0000000000800060        0x0 ./UART.o
+ .data          0x0000000000800060        0x0 ./main.o
+ .data          0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .data          0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x0000000000800060                . = ALIGN (0x2)
+                0x0000000000800060                _edata = .
+                [!provide]                        PROVIDE (__data_end = .)
+
+.bss            0x0000000000800060        0x0
+                [!provide]                        PROVIDE (__bss_start = .)
+ *(.bss)
+ .bss           0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .bss           0x0000000000800060        0x0 ./AVR_SPI.o
+ .bss           0x0000000000800060        0x0 ./LCD_FUNC.o
+ .bss           0x0000000000800060        0x0 ./UART.o
+ .bss           0x0000000000800060        0x0 ./main.o
+ .bss           0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .bss           0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x0000000000800060        0x0 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ *(.bss*)
+ *(COMMON)
+                [!provide]                        PROVIDE (__bss_end = .)
+                0x00000000000013ce                __data_load_start = LOADADDR (.data)
+                0x00000000000013ce                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800060        0x0
+                [!provide]                        PROVIDE (__noinit_start = .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end = .)
+                0x0000000000800060                _end = .
+                [!provide]                        PROVIDE (__heap_start = .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x0000000000000000     0x1308
+ *(.stab)
+ .stab          0x0000000000000000      0x294 ./AVR_SPI.o
+ .stab          0x0000000000000294      0xcb4 ./LCD_FUNC.o
+                                        0xcc0 (size before relaxing)
+ .stab          0x0000000000000f48      0x198 ./UART.o
+                                        0x1a4 (size before relaxing)
+ .stab          0x00000000000010e0      0x228 ./main.o
+                                        0x234 (size before relaxing)
+
+.stabstr        0x0000000000000000      0x92e
+ *(.stabstr)
+ .stabstr       0x0000000000000000      0x92e ./AVR_SPI.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x12
+ *(.comment)
+ .comment       0x0000000000000000       0x12 ./AVR_SPI.o
+                                         0x13 (size before relaxing)
+ .comment       0x0000000000000012       0x13 ./LCD_FUNC.o
+ .comment       0x0000000000000012       0x13 ./UART.o
+ .comment       0x0000000000000012       0x13 ./main.o
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0x20
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x50c
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x4e6 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_info    0x00000000000004e6       0x26 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+
+.debug_abbrev   0x0000000000000000      0x4b7
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x4a3 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_abbrev  0x00000000000004a3       0x14 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+
+.debug_line     0x0000000000000000       0x7e
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1d d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_line    0x000000000000001d       0x61 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0x1f8
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x199 d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_str     0x0000000000000199       0x5f d:/my data/my data/mechatronics content/programing/introduction to empeded systems/amit course/programs/tools/avr-gcc-10.1.0-x64-windows/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+OUTPUT(SPI_MASTER.elf elf32-avr)
+LOAD linker stubs

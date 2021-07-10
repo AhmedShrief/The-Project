@@ -1,0 +1,2 @@
+SPI_SLAVE.o: ../SPI_SLAVE.c ../SPI_SLAVE.h
+../SPI_SLAVE.h:
